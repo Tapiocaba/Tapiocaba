@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **cs50 project!**
 
-- 🌱 I’m currently learning **react.**
+- 🌱 I’m currently learning **react  & gatsby.**
 
 - 💬 Ask me about **anything and i can give you a wrong answer ;)**
 
