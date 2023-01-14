@@ -7,14 +7,13 @@
 </div>
 
 
-- 🔭 I’m currently working on **cs50 project!**
+- 🔭 I’m currently working on **website redesigns w/ react**
 
-- 🌱 I’m currently learning **react  & gatsby.**
+- 🌱 I’m currently learning **react & gatsby.**
 
 - 💬 Ask me about **anything and i can give you a wrong answer ;)**
 
-- ⚡ Fun fact **u give me sushi i  give you life <3**
+- ⚡ Fun fact **u give me sushi i give you life <3**
 
 - 📫 How to reach me **lisa.zz.lin@gmail.com**
 
-  <div> <p align = "left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapiocaba&show_icons=true&locale=en&layout=compact" alt="tapiocaba" /></p> </div>
