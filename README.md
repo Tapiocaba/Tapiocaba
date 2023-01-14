@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lisa!</h1>
 
-<p align="center"> I'm a college student studying Computer Science and Visual Arts, interested in front-end and UI/UX design. </p>
+<p align="center"> I'm a college student studying Computer Science, interested in front-end and UI/UX design. </p>
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/JxFmWGrmynlCg/giphy.gif?cid=ecf05e4797vwhhjkowk2hiqe95jr4cyhzlzhn4yg7nb4l2tv&rid=giphy.gif&ct=g"/>
