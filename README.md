@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **axle internship!**
 
-- 🌱 I’m currently learning **react(?)**
+- 🌱 I’m currently learning **golang!**
 
 - 💬 Ask me about **tsp, but not *that* kind of tsp**
 
-- ⚡ Fun fact **i recently had omakase yay!**
+- ⚡ Fun fact **i have no idea what i'm doing but somehow the code codes**
 
 - 📫 How to reach me **lisa.zz.lin@gmail.com**
 
