@@ -6,14 +6,14 @@
   <img src="https://media2.giphy.com/media/JxFmWGrmynlCg/giphy.gif?cid=ecf05e4797vwhhjkowk2hiqe95jr4cyhzlzhn4yg7nb4l2tv&rid=giphy.gif&ct=g"/>
 </div>
 
-- 🔭 I’m currently working on **axle internship!**
+- 🔭 I’m currently working on **internship!**
 
-- 🌱 I’m currently learning **golang!**
+- 🌱 I’m currently learning about **aws!**
 
-- 💬 Ask me about **tsp, but not *that* kind of tsp**
+- 💬 Ask me about **tears of the kingdom, why cfa is 'chick-fil-a' and not 'center for astrophysics,'and the importance of file naming conventions~**
 
-- ⚡ Fun fact **i have no idea what i'm doing but somehow the code codes**
+- ⚡ Fun fact **i make really good gourmet instant ramen**
 
-- 📫 How to reach me **lisa.zz.lin@gmail.com**
+- 📫 Reach me at **lisa.zz.lin@gmail.com**
 
 Check out [my website!](https://lisalin.vercel.app/)
