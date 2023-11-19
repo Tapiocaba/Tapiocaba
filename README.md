@@ -6,9 +6,9 @@
   <img src="https://media2.giphy.com/media/JxFmWGrmynlCg/giphy.gif?cid=ecf05e4797vwhhjkowk2hiqe95jr4cyhzlzhn4yg7nb4l2tv&rid=giphy.gif&ct=g"/>
 </div>
 
-- 🔭 I’m currently working on **systemz systemz systemz!**
+- 🔭 I’m currently working on **graphics design!**
 
-- 🌱 I’m currently learning how to assemble an **assembly!**
+- 🌱 I’m currently learning how to *pick a concentration**
 
 - 💬 Ask me about **zelda totk, my dnd character ideas, 'and the importance of file naming conventions~**
 
