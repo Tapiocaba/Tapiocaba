@@ -1,20 +1,20 @@
-### hihi! i'm lisa 🫶 welcome to my page :)
+### Hihi! I'm lisa 🫶 Welcome to my page :)
 
-  I study Computer Science and Art at Harvard, and I'm interested in security, printmaking, and cooking yummy food. Talk to me about Zelda, different types of eggs, and the importance of file naming conventions~
+  I'm interested in security, printmaking, and cooking yummy food! Talk to me about Zelda, different types of eggs, and the importance of file naming conventions~
   
-  I'm currently working on:
+  I'm currently:
   
-    > Reading 1 privacy paper a week 📚
-    > Making travel plans ✈️
+    > Movin to a new city! 🌆
+    > Learning pottery 🏺
     > Playing violin 🎻
    
-
   Previously:
     
-    > SWE Intern at Notion, Apple
+    > SWE Intern at Notion, Apple, Artemis, Axle
     > Organized Harvard WECode, HackHarvard
-    > Corodinate hair & makeup for theater shows
+    > Produced and design hair & makeup for theater shows
+    > Lots of other sidequests :)
 
-check out [my website](https://lisalin.dev/)!
+check out [my website](https://lisalin.dev/) and [art stuff](https://www.lisalin.art/)
 
 <img src= "https://media.tenor.com/z0NTv7yYBtQAAAAM/oiia-cat.gif" width="300" height="300" />
